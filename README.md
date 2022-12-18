@@ -43,5 +43,6 @@
  <img src="https://img.shields.io/badge/Github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"  height="35px">
  <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=androidStudio&logoColor=green"  height="35px">
  <img src="https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualStudioCode&logoColor=blue"  height="35px">
+  <img src="https://img.shields.io/badge/Git-%23323330.svg?style=for-the-badge&logo=git&logoColor=orange"  height="35px">
 </div>
 
